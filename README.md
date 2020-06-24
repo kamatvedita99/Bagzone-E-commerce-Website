@@ -1,4 +1,4 @@
-# My_final_project (my_final_project)
+Bagzone- E-Commerce Website
 
 A Quasar Framework app
 
